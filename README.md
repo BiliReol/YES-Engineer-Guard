@@ -1,6 +1,5 @@
 <div align="center">
 
-# YES Engineer Skill
 
 # Yes Engineer Guard
 
